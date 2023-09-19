@@ -1,0 +1,1 @@
+Please go to [leafstudiosDot GitHub organization profile](https://github.com/leafstudiosDot) to continue developing for Statolumn.
